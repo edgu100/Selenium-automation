@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium automation", "Selenium automation\Selenium automation.csproj", "{ADCB7B48-924F-4A4F-BBDB-777914481560}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{951029F5-B1DF-4C49-91BD-ECF011C8D381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADCB7B48-924F-4A4F-BBDB-777914481560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCB7B48-924F-4A4F-BBDB-777914481560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCB7B48-924F-4A4F-BBDB-777914481560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCB7B48-924F-4A4F-BBDB-777914481560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951029F5-B1DF-4C49-91BD-ECF011C8D381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951029F5-B1DF-4C49-91BD-ECF011C8D381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951029F5-B1DF-4C49-91BD-ECF011C8D381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951029F5-B1DF-4C49-91BD-ECF011C8D381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
